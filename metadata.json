@@ -1,11 +1,8 @@
-operator:
-  address: 0x67a2f7b0e85413cee8944a2059951856f1e61888
-  earnings_receiver_address: 0x67a2f7b0e85413cee8944a2059951856f1e61888
-  delegation_approver_address: "0x0000000000000000000000000000000000000000"
-  staker_opt_out_window_blocks: 0
-  metadata_url: "https://goerli.infura.io/v3/209ddeff1d4f40bc90f43dbd86065db8"
-  el_delegation_manager_address:  "0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8"
-eth_rpc_url: "https://goerli.infura.io/v3/209ddeff1d4f40bc90f43dbd86065db8"
-private_key_store_path: "/root/.eigenlayer/operator_keys/adsnee.ecdsa.key.json"
-signer_type: local_keystore
-chain_id: 5
+
+{
+  "name": "ADSNEE Operator",
+  "website": "https://www.google.com",
+  "description": "something like that",
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "https://x.com/dogan22s"
+}
